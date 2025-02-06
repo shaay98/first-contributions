@@ -230,6 +230,7 @@
 - [Hussain Zaidi](https://github.com/hussaynzaidi)
 - Praneeth
 - [Nisha Kumari](https://github.com/workdotnisha)
+- [Nijah Richardson] (https://github.com/shaay98/)
 - [pocall23](https://github.com/pocall23)
 - [ebubecodes](https://github.com/ebubecodes)
 - [thisispembe](https://github.com/xpembe)
